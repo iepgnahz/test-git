@@ -10,6 +10,7 @@ target/
 .springBeans
 
 shouldBeIgnore
+shouldNotBeIgnore
 
 ### IntelliJ IDEA ###
 .idea
